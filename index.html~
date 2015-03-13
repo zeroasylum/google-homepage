@@ -23,7 +23,7 @@
 	<input type="submit" value="Auf gut Glück!">
 </div>
 
-<div class="footer-l">
+<div class="footer-l" style="background-color:#000000">
 	<ul>
 		<li><a href="#">Werbeprogramme</a></li>	
 		<li><a href="#">Unternehmen</a></li>	

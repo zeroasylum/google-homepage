@@ -1,0 +1,51 @@
+.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding-bottom: 200px;
+}
+.nav li {
+	float: right;
+	display: inline;
+	margin-right: 20px;
+}
+a:link,a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover{
+	text-decoration: underline;
+}
+.container{
+	margin-top: 75px;
+	margin-left: 650px;
+	margin-right: 650px;
+	margin-bottom: 450px;
+}
+
+.footer-r, .footer-l{
+	font-size: 12px;
+	margin-top: 50px;
+}
+
+.footer-r ul {
+	list-style-type: none;
+	margin: 0;
+	padding-bottom: 0px;
+
+}
+.footer-r li {
+	float: right;
+	display: inline;
+	margin-right: 20px;
+}
+
+.footer-l ul {
+	list-style-type: none;
+	margin: 0;
+	padding-bottom: 0px;
+}
+.footer-l li {
+	float: left;
+	display: inline;
+	margin-right: 20px;
+}
