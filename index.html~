@@ -15,7 +15,7 @@
 	</ul>
 </div>
 <div class="container">
-	<img  src="http://core0.staticworld.net/images/article/2012/11/google_log-100012175-large.jpg" alt="google" height="100" width="250">
+	<img src="logo.png" width="275" height="95" id="logo">
 	<br>
 	<input type="text" name="search">
 	<br>
@@ -23,7 +23,7 @@
 	<input type="submit" value="Auf gut Glück!">
 </div>
 
-<div class="footer-l" style="background-color:#000000">
+<div class="footer-l">
 	<ul>
 		<li><a href="#">Werbeprogramme</a></li>	
 		<li><a href="#">Unternehmen</a></li>	
